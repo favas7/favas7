@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
     width="30px" height="30px">, I'm Favas</h1>
-<h3 align="center">A passionate Web developer and CyberSecurity Enthusiast</h3>
+<h3 align="center">A passionate Flutter developer and CyberSecurity Enthusiast</h3>
 
 <h3 align="left">🚀 Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img
