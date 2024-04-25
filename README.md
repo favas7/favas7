@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=favas7" alt="favas7" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/muhammedfavas13" target="blank"><img src="https://img.shields.io/twitter/follow/muhammedfavas13?logo=twitter&style=for-the-badge" alt="muhammedfavas13" /></a> </p>
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
