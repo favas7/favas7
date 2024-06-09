@@ -38,10 +38,7 @@
 
 
 ## 📊 Github Stats
-<p>
-  <img align="right"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSpeedX&langs_count=8&theme=react" />
-</p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thespeedx&theme=black-ice"
     alt="thespeedx" /></p>
