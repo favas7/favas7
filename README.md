@@ -36,11 +36,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=favas7&show_icons=true&locale=en&layout=compact" alt="favas7" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=favas7&show_icons=true&locale=en" alt="favas7" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=favas7&" alt="favas7" /></p>
 ## 📊 Github Stats
 <p>
   <img align="right"
@@ -52,4 +48,4 @@
 
 <br />
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=protoak&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=favas7&show_icons=true)
