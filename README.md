@@ -41,3 +41,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=favas7&show_icons=true&locale=en" alt="favas7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=favas7&" alt="favas7" /></p>
+## 📊 Github Stats
+<p>
+  <img align="right"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSpeedX&langs_count=8&theme=react" />
+</p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thespeedx&theme=black-ice"
+    alt="thespeedx" /></p>
+
+<br />
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=protoak&show_icons=true)
